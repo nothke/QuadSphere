@@ -35,6 +35,13 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
+    "nothke.flycam": {
+      "version": "https://github.com/nothke/FlyCam.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "cb1afb5035639ae5b73bcc67455e428cc3991eac"
+    },
     "com.unity.modules.animation": {
       "version": "1.0.0",
       "depth": 0,
